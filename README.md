@@ -1,2 +1,12 @@
-# Projects-Portfolio
-Vishwa's Projects Portfolio  A curated collection of projects showcasing expertise in diverse tech domains:  Cybersecurity: Awareness tools and defense strategies. AI: Chatbots, voice assistants, &amp; AI innovations. Web &amp; App Development: Dynamic websites and user-friendly apps. IoT: Smart solutions leveraging connected devices. Explore &amp; innovation.
+Vishwa's Projects Portfolio
+
+A one-stop repository showcasing diverse projects across multiple domains of technology and innovation.  
+
+Categories:  
+- Cybersecurity: Tools and resources to enhance online safety and awareness.  
+- artificial Intelligence: AI-powered chatbots, voice assistants, and more.  
+- Web Development: Dynamic and responsive web applications.  
+- App Development: Functional and user-friendly mobile applications.  
+- IoT Projects: Innovative solutions leveraging the Internet of Things.  
+
+Explore the portfolio to see my journey in tech! 🌟  
